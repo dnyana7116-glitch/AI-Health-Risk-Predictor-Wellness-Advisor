@@ -27,6 +27,13 @@ This project predicts health risk levels based on lifestyle and health-related f
 Lifestyle_and_Health_Risk_Prediction_Synthetic_Dataset.csv
 
 This project uses a synthetic dataset for educational and machine learning experimentation purposes.
+##Future Scope
+-Future Scope
+-Diabetes Risk Prediction
+-Heart Disease Prediction
+-PCOS Risk Assessment
+-Diet Recommendation System
+-Mobile App Integration
 
 ## How to Run
 
