@@ -20,7 +20,7 @@ encoders = saved_data["encoders"]
 columns = saved_data["columns"]
 
 client = Groq(
-    api_key="YOUR_GROQ_API_KEY"
+    api_key=st.secrets["GROQ_API_KEY"]
 )
 st.subheader("Enter Your Health Details")
 
