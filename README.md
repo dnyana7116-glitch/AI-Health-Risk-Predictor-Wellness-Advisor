@@ -1,6 +1,5 @@
-# AI-Health-Risk-Predictor-Wellness-Advisor
-AI-powered health risk prediction and wellness recommendation system using Machine Learning, Streamlit, and Generative AI.
 # AI Health Risk Predictor & Wellness Advisor
+AI-powered health risk prediction and wellness recommendation system using Machine Learning, Streamlit, and Generative AI.
 
 ## Overview
 This project predicts health risk levels based on lifestyle and health-related factors using Machine Learning. It also provides wellness recommendations and AI-powered guidance through an interactive Streamlit application.
