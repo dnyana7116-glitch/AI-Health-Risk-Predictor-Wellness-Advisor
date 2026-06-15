@@ -34,3 +34,17 @@ This project uses a synthetic dataset for educational and machine learning exper
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+## Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Wellness Score
+![Wellness Score](images/wellness.png)
+
+### AI Wellness Advisor
+![AI Advisor](images/advisor.png)
+
+### Health Assistant
+![Health Assistant](images/assistant.png)
